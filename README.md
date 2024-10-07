@@ -1,6 +1,14 @@
-# DigitalBookFrontendAngular
+# Digital Book Frontend Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.7.
+
+# Documentation
+## Overview
+To make reading books, particularly in philosophy, science, and educational genres, easier and more interactive. <br>
+[Digital Book Overview](https://l-qerraxhija.atlassian.net/wiki/spaces/DB/overview) <br>
+[Digital Book Front End](https://l-qerraxhija.atlassian.net/wiki/spaces/DB/pages/96272385/Front+End)
+
+# Develop
 
 ## Development server
 
