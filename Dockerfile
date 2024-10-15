@@ -1,4 +1,4 @@
-FROM node:20 as build
+FROM node:20 AS build
 
 WORKDIR /app
 
@@ -8,11 +8,11 @@ RUN npm install
 
 COPY . .
 
-RUN npm run build --staging
+RUN npm run build-staging
 
 FROM nginx:alpine
 
-COPY --from=build /app/build/digital-book-frontend-angular /usr/share/nginx/html
+COPY --from=build /app/dist/digital-book-frontend-angular /usr/share/nginx/html
 
 EXPOSE 80
 
