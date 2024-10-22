@@ -7,7 +7,7 @@
     "build": "ng build",
     "build-production": "ng build --configuration production",
     "build-staging": "ng build --configuration staging",
-    "test": "ng test"
+    "test": "ng test --browsers=ChromeHeadless"
   },
   "private": true,
   "dependencies": {
