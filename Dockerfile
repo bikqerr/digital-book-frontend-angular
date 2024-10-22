@@ -12,7 +12,8 @@ RUN npm run build-staging
 
 FROM nginx:alpine
 
-COPY --from=build /app/dist/digital-book-frontend-angular /usr/share/nginx/html
+COPY --from=build /app/dist/digital-book-frontend-angular/browser /usr/share/nginx/html
+COPY nginx.conf /etc/nginx/conf.d/default.conf
 
 EXPOSE 80
 
