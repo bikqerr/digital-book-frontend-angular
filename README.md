@@ -5,10 +5,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 # Documentation
 ## Overview
 The goal is to make reading books easier and more interactive, especially in the fields of philosophy, science and education. <br>
-- **Ease of Use**: Reduce the user's need to memorize concepts by allowing instant access to definitions within the text.
+- **Ease**: Reduce the user's need to memorize concepts by allowing instant access to definitions within the text.
 - **Interactivity**: Enable users to add notes for individual words or phrases within the book.
 
-For more info see
+For more info see <br>
 [Digital Book Overview](https://l-qerraxhija.atlassian.net/wiki/spaces/DB/overview) <br>
 [Digital Book Front End](https://l-qerraxhija.atlassian.net/wiki/spaces/DB/pages/96272385/Front+End)
 
