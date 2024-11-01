@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Documentation
 ## Overview
-To make reading books, particularly in philosophy, science, and educational genres, easier and more interactive. <br>
+To make reading books, particularly philosophy, science, and educational genres, easier and more interactive. <br>
 [Digital Book Overview](https://l-qerraxhija.atlassian.net/wiki/spaces/DB/overview) <br>
 [Digital Book Front End](https://l-qerraxhija.atlassian.net/wiki/spaces/DB/pages/96272385/Front+End)
 
