@@ -2,9 +2,9 @@ name: Node.js CI/CD
 
 on:
   push:
-    branches: [ "staging" ]
+    branches: [ "develop" ]
   pull_request:
-    branches: [ "staging" ]
+    branches: [ "develop" ]
 
 jobs:
   build:
